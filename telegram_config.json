@@ -1,0 +1,11 @@
+{
+  "bot_token": "TU_BOT_TOKEN_AQUI",
+  "chat_id": "@tu_canal_o_chat_id",
+  "enabled": false,
+  "affiliate_tags": {
+    "Falabella": "PENDIENTE_AFILIADO_FALABELLA",
+    "Plaza Vea": "PENDIENTE_AFILIADO_PLAZAVEA",
+    "Promart": "PENDIENTE_AFILIADO_PROMART",
+    "Mercado Libre": "PENDIENTE_AFILIADO_ML"
+  }
+}

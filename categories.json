@@ -1,0 +1,62 @@
+[
+  {
+    "category": "laptops",
+    "store": "Falabella",
+    "url": "https://www.falabella.com.pe/falabella-pe/category/cat40712/Laptops-Gamer",
+    "max_pages": 4
+  },
+  {
+    "category": "laptops",
+    "store": "Plaza Vea",
+    "url": "laptop",
+    "max_pages": 4
+  },
+  {
+    "category": "laptops",
+    "store": "Promart",
+    "url": "laptop",
+    "max_pages": 4
+  },
+  {
+    "category": "smartphones",
+    "store": "Falabella",
+    "url": "https://www.falabella.com.pe/falabella-pe/category/cat40715/Smartphones",
+    "max_pages": 4
+  },
+  {
+    "category": "smartphones",
+    "store": "Plaza Vea",
+    "url": "smartphone",
+    "max_pages": 4
+  },
+  {
+    "category": "smartphones",
+    "store": "Promart",
+    "url": "smartphone",
+    "max_pages": 4
+  },
+  {
+    "category": "televisores",
+    "store": "Falabella",
+    "url": "https://www.falabella.com.pe/falabella-pe/category/cat1012/Televisores",
+    "max_pages": 3
+  },
+  {
+    "category": "televisores",
+    "store": "Plaza Vea",
+    "url": "televisor",
+    "max_pages": 3
+  },
+  {
+    "category": "consolas_gaming",
+    "store": "Falabella",
+    "url": "https://www.falabella.com.pe/falabella-pe/category/cat20009/Consolas",
+    "max_pages": 3
+  },
+  {
+    "category": "consolas_gaming",
+    "store": "Plaza Vea",
+    "url": "consola-videojuegos",
+    "max_pages": 3
+  }
+]

@@ -1,0 +1,5 @@
+# Coloca tus proxies aquí (uno por línea).
+# Ejemplos:
+# http://123.45.67.89:8080
+# http://usuario:contrasena@123.45.67.89:8080
+# socks5://123.45.67.89:1080

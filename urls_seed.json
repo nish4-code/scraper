@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vip-laptop-macbook-air-m2",
+    "name": "Apple MacBook Air M2 13.6 16GB 512GB",
+    "category": "laptops",
+    "target_price_alert": 5999.00,
+    "stores": [
+      {
+        "name": "Falabella",
+        "url": "https://www.falabella.com.pe/falabella-pe/product/80054339/Macbook-Air-Chip-M5-13.6-16GB-RAM-512GB-SSD/80054339"
+      }
+    ]
+  },
+  {
+    "id": "vip-laptop-gigabyte-rtx5070",
+    "name": "Laptop Gamer GIGABYTE A16 i7 32GB RTX 5070",
+    "category": "laptops",
+    "target_price_alert": 6500.00,
+    "stores": [
+      {
+        "name": "Falabella",
+        "url": "https://www.falabella.com.pe/falabella-pe/product/146601438/Laptop-Gamer-A16-Intel-Core-i7-13620H-32GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-16/146601438"
+      }
+    ]
+  },
+  {
+    "id": "vip-laptop-lenovo-ideapad-slim3",
+    "name": "Laptop LENOVO IdeaPad Slim 3 15.3 i5 16GB 512GB",
+    "category": "laptops",
+    "target_price_alert": 2600.00,
+    "stores": [
+      {
+        "name": "Plaza Vea",
+        "url": "https://www.plazavea.com.pe/laptop-lenovo-ideapad-slim-3-15irh10-15-3--intel-core-i513420h-16gb-512gb-ssd-20634502/p"
+      }
+    ]
+  },
+  {
+    "id": "vip-celular-samsung-galaxy-a37",
+    "name": "Smartphone SAMSUNG Galaxy A37 8GB 256GB",
+    "category": "smartphones",
+    "target_price_alert": 1600.00,
+    "stores": [
+      {
+        "name": "Plaza Vea",
+        "url": "https://www.plazavea.com.pe/smartphone-samsung-galaxy-a37-6-7--8gb-256gb-50-mp-gray-20634505/p"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[Unit]
+Description=Servidor Híbrido de Scraping de Ofertas Tech 24/7
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/r2d2/Documents/scrap/python-scrapping/tech_tracker
+ExecStart=/home/r2d2/Documents/scrap/python-scrapping/venv/bin/python scheduler.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=default.target
