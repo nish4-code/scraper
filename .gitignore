@@ -1,0 +1,12 @@
+# Entorno virtual y cachés de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Configuración y credenciales sensibles (Tokens de Telegram, etc.)
+.env
+
+# Base de datos local SQLite
+*.db
+database.db
